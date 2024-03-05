@@ -1,4 +1,4 @@
-<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/phillis-mosieri-4b3104190/">IT Professional</a>☺</h1>
+<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/david-essel-54b9282aa/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
