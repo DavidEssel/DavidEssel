@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/PhillisEssel/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/DavidEssel/Configure-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PhillisEssel/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
