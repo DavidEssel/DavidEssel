@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
-<h2>👨‍💻 Information Technology :</h2>
+<h2>👨‍💻 Information Technology </h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/DavidEssel/Configure-Active-Directory)
