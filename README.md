@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management 
 
 - **[Vulnerability Management Program Implementation](https://github.com/DavidEssel/Vulnerability-Management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/DavidEssel/Programmatic-Vulnerability-Remediations-/tree/main)**
 
 ## 🚨 Threat Hunting and Security Operations
 
